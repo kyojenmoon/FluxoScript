@@ -1,6 +1,6 @@
 #!/bin/bash
 echo -e "\e[40;38;5;226m " 
-echo " WELCOME TO AUTOSCRIPT VpsProject "
+echo " WELCOME TO AUTOSCRIPT VPS G404 "
 echo "################################################################################" 
 echo "#                                                                              #" 
 echo "#      SSSSSSSSSSSSSSSSS  sssssssssssssssss  HHHHHHHHH        HHHHHHHHH        #" 
@@ -14,9 +14,9 @@ echo "#                 SSSSSS             SSSSSS  HHHHHHHHH        HHHHHHHHH   
 echo "#      SSSSSSSSSSSSSSSSS  SSSSSSSSSSSSSSSSS  HHHHHHHHH        HHHHHHHHH        #" 
 echo "#      SSSSSSSSSSSSSSSSS  SSSSSSSSSSSSSSSSS  HHHHHHHHH        HHHHHHHHH        #" 
 echo "#------------------------------------------------------------------------------#" 
-echo "#          SELAMAT DATANG DI SCRIPT AUTO SETUP VPS BY VPSPROJECT.              #" 
-echo "#                       SCRIPT VERSION V2.0 FOR DEBIAN 7-8-9                   #"
-echo "#                               SEMOGA BERMANFAAT                              #" 
+echo "#          SELAMAT DATANG DI SCRIPT AUTO SETUP VPS BY VPSG404 TM.              #" 
+echo "#                   SCRIPT VERSION V3.0 FOR ALL OS SSH/VPN                     #"
+echo "#                              SEMOGA BERMANFAAT                               #" 
 echo "#------------------------------------------------------------------------------#" 
 echo "################################################################################"
 echo "========================================"
@@ -844,9 +844,9 @@ echo "#                 SSSSSS             SSSSSS  HHHHHHHHH        HHHHHHHHH   
 echo "#      SSSSSSSSSSSSSSSSS  SSSSSSSSSSSSSSSSS  HHHHHHHHH        HHHHHHHHH        #" | lolcat
 echo "#      SSSSSSSSSSSSSSSSS  SSSSSSSSSSSSSSSSS  HHHHHHHHH        HHHHHHHHH        #" | lolcat
 echo "#------------------------------------------------------------------------------#" | lolcat
-echo "#          SELAMAT DATANG DI SCRIPT AUTO SETUP VPS BY VPSPROJECT.              #" | lolcat
-echo "#                       SCRIPT VERSION V2.0 FOR DEBIAN 7-8-9                   #" | lolcat
-echo "#                               SEMOGA BERMANFAAT                              #" | lolcat
+echo "#          SELAMAT DATANG DI SCRIPT AUTO SETUP VPS BY VPSG404 TM.              #" | lolcat
+echo "#                 SCRIPT VERSION V3.0 FOR FOR ALL OS SSH/VPN                   #" | lolcat
+echo "#                              SEMOGA BERMANFAAT                               #" | lolcat
 echo "#------------------------------------------------------------------------------#" | lolcat
 echo "################################################################################" | lolcat
 echo "============================================================" | tee -a log-install.txt| lolcat
